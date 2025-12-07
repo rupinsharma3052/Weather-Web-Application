@@ -2,11 +2,6 @@
 
 A modern, responsive weather application built with HTML, CSS, and JavaScript that provides real-time weather information for any location worldwide.
 
-![Weather App Screenshot](screenshots/main-screenshot.png)
-
-## 🌟 Live Demo
-[🔗 View Live Demo](https://yourusername.github.io/weather-app/)
-
 ## ✨ Features
 
 ### 🌡️ Weather Information
